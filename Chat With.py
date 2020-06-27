@@ -75,7 +75,7 @@ def timer():
     #time.sleep(5)
     while a != 5:
         #print()
-        a[2]+=1
+        a+=1
     else :
         msgs.insert(END, "bot : " + str("How Can I help You?"))
 def ask_from_bot():
